@@ -1,0 +1,17 @@
+.cargoflux-rates th {
+  border-right: 1px solid;
+}
+
+.cargoflux-rates th.zone_name {
+  border-bottom: 1px solid;
+  text-align: center;
+}
+
+.cargoflux-rates td {
+  border-right: 1px solid;
+  border-top: 1px solid;
+}
+
+.cargoflux-rates input[type=number] {
+  width: 100px;
+}
